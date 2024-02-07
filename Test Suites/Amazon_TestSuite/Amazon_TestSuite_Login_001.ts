@@ -14,7 +14,7 @@
    <testCaseLink>
       <guid>8755014a-dfa2-469f-9f17-fac188a0df25</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/TC_Amazon_Login_001</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
@@ -29,5 +29,12 @@
          <value></value>
          <variableId>b8abf956-e534-4ad8-aef4-0bc256dbf7f8</variableId>
       </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>16f4154c-1be7-408d-97ff-794baabae86b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_Amazon_Functionality</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
